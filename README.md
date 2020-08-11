@@ -1,6 +1,7 @@
 
 
-                ![1](https://user-images.githubusercontent.com/68409293/89877009-6faae880-dbfa-11ea-809c-c727c5419f79.gif)
+![1 (1)](https://user-images.githubusercontent.com/68409293/89877343-ef38b780-dbfa-11ea-9da8-470d84532357.gif){: width= "100%" height="100%"}
+
 
 
 
