@@ -1,7 +1,7 @@
 ![1 (1)](https://user-images.githubusercontent.com/68409293/89877343-ef38b780-dbfa-11ea-9da8-470d84532357.gif)
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/68409293/89877343-ef38b780-dbfa-11ea-9da8-470d84532357.gifg" alt="kingdom" width="50%" height="50%"/>
+	<img src="![1 (1)](https://user-images.githubusercontent.com/68409293/89877343-ef38b780-dbfa-11ea-9da8-470d84532357.gif)" alt="kingdom" width="50%" height="50%"/>
 </p>
 
 
