@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fwelcome-paper-poster-with-colorful-brush-strokes-vector-21849225&psig=AOvVaw0UhtVuX-7ukKSNQYSpksGz&ust=1597220998757000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLid-4XekusCFQAAAAAdAAAAABAD)
+![1](https://user-images.githubusercontent.com/68409293/89876003-f9f24d00-dbf8-11ea-832d-43c48d2c8be5.png)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonhoelee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
